@@ -5,7 +5,7 @@
 - **Location:** Gomel, Belarus
 - **Phone:** +375 44 715-52-18
 - **Email:** vasilevski.as@mail.ru
-- **GitHub:** vasilevski-as
+- **GitHub:** [vasilevski-as](https://github.com/vasilevski-as)
 
 ### *About Me* ###
 
@@ -35,9 +35,9 @@ console.log(calc(4, 3));
 - **Belarusian State University of Transport**
   - Technical operation of machinery and equipment
 - **Udemy**
-  - HTML & CSS
-  - Photoshop
-  - JavaScript (in process..)
+  - [HTML & CSS](https://www.udemy.com/course/webdeveloper/)
+  - [Photoshop](https://www.udemy.com/course/photoshop-2021-f/)
+  - [JavaScript (in process..)](https://www.udemy.com/course/javascript_full/)
 
 ### *Languages* ###
 
