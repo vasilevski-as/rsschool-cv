@@ -20,3 +20,26 @@ Now I am studying in the field of IT. Plans to become a Front-end developer. I w
 - JavaScript (Basic)
 - Photoshop
 - 3D modeling (Blender, Creo, SolidWorks)
+
+### *Code Example* ###
+
+```
+function calc(a, b) {
+    return (a + b);
+    }
+console.log(calc(4, 3));
+```
+
+### *Education* ###
+
+- **Belarusian State University of Transport**
+  - Technical operation of machinery and equipment
+- **Udemy**
+  - HTML & CSS
+  - Photoshop
+  - JavaScript (in process..)
+
+### *Languages* ###
+
+- **Russian** - native speaker
+- **English** - B1
