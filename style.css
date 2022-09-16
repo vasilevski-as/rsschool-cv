@@ -1,0 +1,71 @@
+html{
+    font-size: 15px;
+}
+body{
+    margin: 0;
+    font-family: Lato, sans-serif;
+    font-size: 1rem;
+    background-color: rgb(179, 179, 179);
+}
+
+*,
+*::before
+*::after{
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+p {
+    margin: 0 0 10px;
+}
+
+.container{
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.page {
+    width: 100%;
+    height: 100vh;
+    background-color:rgb(215, 215, 215)
+}
+
+/* header */
+
+.header{
+    margin-top: 3rem;
+    background-color:rgb(44, 44, 44); 
+    height:200px; 
+    font-size: 48px;
+    color: white;
+    text-transform: uppercase;
+    font-family:'Raleway', sans-serif;
+    align-items: center;
+}
+.container{
+    display: flex;
+    align-items:center;
+    max-width: 1200px;
+    height: 100%;
+    margin: 0 auto;
+    gap: 1rem
+}
+.name{
+    font-weight: 200;
+}
+.sname {
+    font-weight: 500;
+}
+
+.leftSide{
+    border: black 2px;
+    padding: 2rem;
+    width: 50%;
+}
+.titels{
+    font-family: Lato;
+}
+/* main */
