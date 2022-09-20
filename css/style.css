@@ -1,65 +1,82 @@
-html{
+html {
     font-size: 15px;
 }
-body{
+
+body {
     margin: 0;
     font-family: Lato, sans-serif;
     font-size: 1rem;
     background-color: rgb(179, 179, 179);
 }
+
 *,
-*::before
-*::after{
+*::before *::after {
     box-sizing: border-box;
 }
-h1, h2, h3, h4, h5, h6 {
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     margin: 0;
 }
+
 p {
     margin: 0 0 10px;
 }
-.container{
+
+.container {
     width: 100%;
     max-width: 1000px;
     margin: 0 auto;
 }
+
 .page {
     width: 100%;
     height: 100vh;
-    background-color:rgb(215, 215, 215)
+    background-color: rgb(215, 215, 215)
 }
-        /* header */
-.header{
+
+/* header */
+.header {
     display: flex;
     margin-top: 3rem;
-    background-color:rgb(44, 44, 44); 
-    height:200px; 
+    background-color: rgb(44, 44, 44);
+    height: 200px;
     font-size: 48px;
     color: white;
     text-transform: uppercase;
-    font-family:'Raleway', sans-serif;
+    font-family: 'Raleway', sans-serif;
     align-items: center;
 }
-.container{
+
+.container {
     width: 100%;
     max-width: 1200px;
     margin: 0 auto;
 }
-.name{
+
+.name {
     font-weight: 200;
 }
+
 .name span {
     font-weight: 500;
 }
-        /* main */
-.firstLevl{
+
+/* main */
+.firstLevl {
     display: flex;
     justify-content: space-between;
 }
-.leftSide{
+
+.leftSide {
     width: 400px;
 }
-.titels{
+
+.titels {
     font-family: Lato;
     font-weight: 700;
 }
